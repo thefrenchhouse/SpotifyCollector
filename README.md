@@ -52,16 +52,16 @@ interface WeightedTrack extends UserTrack {
     <td>5</td>
   </tr>
   <tr>
-    <td>User Spotify recommandation tracks</td>
     <td>Recommendations</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>User saved tracks</td>
     <td>Saved</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>User's playlist tracks</td>
     <td>Playlist</td>
+    <td>1</td>
   </tr>
 </table>
 
